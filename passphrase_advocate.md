@@ -1,3 +1,4 @@
+
 ## Why should I use a random passphrase?
 
 Because humans are terrible at creating secure passwords. The [famous xkcd comic][1] got it right: humans have been trained to use <b>hard-to-remember</b> passwords that are <b>easy</b> for computers to guess.
